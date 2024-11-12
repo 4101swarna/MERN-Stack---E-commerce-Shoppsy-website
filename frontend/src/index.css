@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: #18181f;
+  min-height: 100vh;
+  color: #fff;
+}
+
+input,
+textarea,
+table {
+  color: #000;
+}
